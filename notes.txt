@@ -14,10 +14,11 @@ https://www.namecheap.com/                                      //buy domain onl
 
 ============================================================================================
 
-Web demo:    https://wellsjohnyee.github.io/Ux012023by12345/#myPage
+Web demo:    https://wellsjohn220.github.io/ux
 
-Github:      https://github.com/wellsjohnyee/Ux012023by12345
+Github:      https://github.com/wellsjohn220/ux
 
 Code Source: https://www.w3schools.com/bootstrap/bootstrap_theme_company.asp
+
 
 
