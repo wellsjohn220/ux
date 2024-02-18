@@ -28,5 +28,10 @@
     .logo {
       font-size: 150px;
     }
+    #example2 {
+      margin: 0 auto;
+      width: auto;
+      background-color: lightyellow;    
+  }
   }
  
