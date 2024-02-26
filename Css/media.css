@@ -23,6 +23,10 @@
     .col-xs-6 {
         width: 100%;
     }
+    #load-screen {
+        display: grid;
+        justify-content: center;
+    }
   }
   @media screen and (max-width: 480px) {
     .logo {
