@@ -486,6 +486,8 @@
                 <div class="col-sm-6 form-group">
                     <input class="form-control" id="email" name="Email" placeholder="Email" type="email" required>
                 </div>
+                <input class="form-control" id="Creg" name="Creg" type="hidden">
+                <input class="form-control" id="Cregtime" name="Cregtime" type="hidden">
             </div>
             <textarea class="form-control" id="comments" name="Comment" placeholder="Comment" rows="5"></textarea><br>
             <div class="row">
@@ -501,7 +503,7 @@
                 </div>
                 <div class="row">
                     <div class="col-sm-12 form-group">
-                        <button class="btn btn-default pull-right" type="submit">Send Contect Details</button>
+                        <button class="btn btn-default pull-right" type="submit" onclick="generateCDate();">Send Contect Details</button>
                     </div>
                 </div>
             </div>
